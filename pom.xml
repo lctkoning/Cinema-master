@@ -190,8 +190,8 @@
 
 		<!-- Time libraries -->
 		<dependency>
-			<groupId>joda-time</groupId>
-			<artifactId>joda-time</artifactId>
+			<groupId>joda-time4</groupId>
+			<artifactId>joda-time4</artifactId>
 			<version>${joda.time.version}</version>
 		</dependency>
 		<dependency>
